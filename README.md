@@ -1,6 +1,7 @@
 - Hi my name i'm israel, i'm a front-end dev, i would like to share my projects and code stuff here 😁
+
 <div aling = "center">
-<a href="isaraelsilvaaa@gmail.com">
+<a href="mailto:isaraelsilvaaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
 </div>
 
