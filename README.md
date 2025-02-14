@@ -1,4 +1,4 @@
- <h1>Hi i'm israel, i am a front-end dev, i would like to share my projects and code stuff here 😁</h1>
+ <h1>Hi i'm israel, i am a front-end dev, i would like to share my projects and code stuff here😁</h1>
 
 <div aling = "center">
 <a href="mailto:isaraelsilvaaa@gmail.com">
