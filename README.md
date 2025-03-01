@@ -12,7 +12,7 @@
    
    I can speak three languages: Portuguese(BR), English, Spanish✌️
    
-   I'm a violinist, every day in my free time i play classic songs and the Beatles as well🎻
+   I'm a violinist, every day in my free time i play classic songs and The Beatles as well🎻
    
    My favorite games are cuphead and darksouls🎮
   </div>
