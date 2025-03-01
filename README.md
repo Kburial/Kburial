@@ -1,9 +1,12 @@
  <h1 text align = "center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+there%F0%9F%98%81;Welcome+to+my+profile!;I'm+Israel+Moreira%F0%9F%98%8E" alt="Typing SVG" />
+ </h1>
  </a>
 
-  
-<div align "center">
+ <h3 text align = "center">A passionate front dev from Brazil🇧🇷</h3>
+
+ </br>
+
 <a href="mailto:isaraelsilvaaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
 
@@ -12,7 +15,7 @@
 
 <a href="https://www.instagram.com/raelll_98/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
 
  <div align = "center">
 <img alt = "my stats" align = "left" widht = "47%" src =  "https://github-readme-stats.vercel.app/api?username=Kburial" />  
