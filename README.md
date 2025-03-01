@@ -1,9 +1,9 @@
  <h1 text align = "center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+there%F0%9F%98%81;Welcome+to+my+profile!;I'm+Israel+Moreira%F0%9F%98%8E" alt="Typing SVG" />
  </a>
-<br>
+
   
-<div>
+<div align "center">
 <a href="mailto:isaraelsilvaaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
 
