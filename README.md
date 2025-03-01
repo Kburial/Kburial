@@ -1,4 +1,6 @@
- <h1>Hi i'm israel, i am a brazilian front-end dev, i would like to share my projects and code stuff here😁</h1>
+ <h1 text align = "center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?size=30&lines=Hello+there%F0%9F%98%81;Welcome+to+my+profile!;I'm+Israel+Moreira%F0%9F%98%8E"/>
+ </h1>
 
 <div aling = "center">
 <a href="mailto:isaraelsilvaaa@gmail.com">
