@@ -3,9 +3,7 @@
  </a>
  </h1>
  
-
  <h3 text align = "center">A passionate front dev from Brazil</h3>
-
  </br>
 
  <div align = "center">
