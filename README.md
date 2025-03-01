@@ -34,8 +34,10 @@
 <img alt = "my stats" align = "left" widht = "47%" src =  "https://github-readme-stats.vercel.app/api?username=Kburial" />  
 <img alt = "my languages" align = "left" widht = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kburial&layout=donut" />
  </div>
+
+ </br>
+
  
- <br>
 <h2 text align = "center">🖥 My languages frameworks-tools 🖥</h2>
 <br/>
 <div aling = "center">
