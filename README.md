@@ -7,22 +7,28 @@
 
  </br>
 
- <div text align = "center">
+ <div align = "center">
+  
    I'm currently learning front-end stuff👨‍💻
-   I can speak three languages: Portuguese, English, Spanish✌️
-   I'm a violinist, every day in my free time i play classic songs and Bettles songs as well🎻
-   My favorite game are cuphead and darksouls🎮
+   
+   I can speak three languages: Portuguese(BR), English, Spanish✌️
+   
+   I'm a violinist, every day in my free time i play classic songs and the Beatles as well🎻
+   
+   My favorite games are cuphead and darksouls🎮
   </div>
 
-
+<div align = "left">
 <a href="mailto:isaraelsilvaaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
-
+</a>
 <a href="https://www.linkedin.com/in/israel-da-silva-moreira-9a6a99243/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</a>
 <a href="https://www.instagram.com/raelll_98/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</a>
+</div>
 
 
  <div align = "center">
