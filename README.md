@@ -3,9 +3,17 @@
  </h1>
  </a>
 
- <h3 text align = "center">A passionate front dev from Brazil🇧🇷</h3>
+ <h3 text align = "center">A passionate front dev from Brazil</h3>
 
  </br>
+
+ <div text align = "center">
+   I'm currently learning front-end stuff👨‍💻
+   I can speak three languages: Portuguese, English, Spanish✌️
+   I'm a violinist, every day in my free time i play classic songs and Bettles songs as well🎻
+   My favorite game are cuphead and darksouls🎮
+  </div>
+
 
 <a href="mailto:isaraelsilvaaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
