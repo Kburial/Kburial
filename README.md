@@ -1,41 +1,50 @@
- <h1 align= "center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+there%F0%9F%98%81;Welcome+to+my+profile!;I'm+Israel+Moreira%F0%9F%98%8E" alt="Typing SVG"/>
- </a>
- </h1>
- 
- <h3 text align = "center">A passionate front dev from Brazil</h3>
- <br/>
+<div align="center">
 
- <div align = "center">
-  
-   I'm currently learning front-end stuff👨‍💻
-   
-   I can speak three languages: Portuguese(BR), English, Spanish✌️
-   
-   I'm a violinist, every day in my free time i play classic songs and The Beatles as well🎻
-   
-   My favorite games are cuphead and darksouls🎮
-  </div>
+  <h1>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello+there+😄;Welcome+to+my+profile!;I'm+Israel+Moreira+😎"
+      alt="Typing SVG"
+    />
+  </h1>
 
-<div align = "center">
-<a href="mailto:isaraelsilvaaa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
-</a>
-<a href="https://www.linkedin.com/in/israel-da-silva-moreira-9a6a99243/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</a>
-<a href="https://www.instagram.com/raelll_98/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</a>
+  <h3>A passionate front-end developer from Brazil 🇧🇷</h3>
+
+  <br/>
+
+  <p>
+    👨‍💻 I'm currently learning front-end stuff <br/>
+    🌍 I can speak three languages: Portuguese (BR), English, Spanish <br/>
+    🎻 I'm a violinist, I play classical music and The Beatles <br/>
+    🎮 My favorite games are Cuphead and Dark Souls
+  </p>
+
+  <br/>
+
+  <a href="mailto:isaraelsilvaaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/israel-da-silva-moreira-9a6a99243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/raelll_98/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kburial&show_icons=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kburial&layout=donut"
+    height="180"
+  />
+
 </div>
 
-
- <div align = "center">
-<img alt = "my stats" align = "left" widht = "47%" src =  "https://github-readme-stats.vercel.app/api?username=Kburial" />  
-<img alt = "my languages" align = "left" widht = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kburial&layout=donut" />
- </div>
-
- </br>
 
  
 <h2 text align = "center">🖥 My languages frameworks-tools 🖥</h2>
