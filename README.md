@@ -1,13 +1,14 @@
 <div align="center">
 
-  <h1>
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello+there+😄;Welcome+to+my+profile!;I'm+Israel+Moreira+😎"
-      alt="Typing SVG"
-    />
-  </h1>
+ <h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello+there%20%F0%9F%98%81;Welcome+to+my+profile!;I+am+Israel+Moreira%20%F0%9F%98%8E"
+    alt="Typing SVG"
+  />
+</h1>
 
-  <h3>A passionate front-end developer from Brazil 🇧🇷</h3>
+
+  <h2>A passionate front-end dev from Brazil</h2>
 
   <br/>
 
@@ -45,10 +46,17 @@
 
 </div>
 
+<br/><br/>
 
- 
-<h2 text align = "center">🖥 My languages frameworks-tools 🖥</h2>
+<h2 align="center">🖥 My languages frameworks & tools 🖥</h2>
+
 <br/>
-<div aling = "center">
-<img alt = "my skills" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
