@@ -35,7 +35,7 @@
    </a> 
    
    <a href="https://www.canva.com/design/DAG3a125cnI/2nVpAXUhgwnEKUbC6G2lpg/view?utm_content=DAG3a125cnI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-Projeto-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Canva-Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
    </a>
 </p>
 
