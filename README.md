@@ -32,7 +32,9 @@
    
    <a href="https://www.instagram.com/raelll_98/" target="_blank"> 
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-   </a> <a href="https://www.canva.com/design/DAG3a125cnI/view" target="_blank"> 
+   </a> 
+   
+   <a href="https://www.canva.com/design/DAG3a125cnI/view" target="_blank"> 
     <img src="https://img.shields.io/badge/Canva-Projeto-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
    </a>
 </p>
