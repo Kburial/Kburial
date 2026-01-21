@@ -21,28 +21,20 @@
 
   <br/>
 
-  <p align="center">
-  <a href="mailto:isaraelsilvaaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/israel-da-silva-moreira-9a6a99243/" 
-     target="_blank" 
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/raelll_98/" 
-     target="_blank" 
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.canva.com/design/DAG3a125cnI/view" 
-     target="_blank" 
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Canva-Projeto-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  </a>
+<p align="center">
+ <a href="mailto:isaraelsilvaaa@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a> 
+   
+   <a href="https://www.linkedin.com/in/israel-da-silva-moreira-9a6a99243/" target="_blank"> 
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+   </a> 
+   
+   <a href="https://www.instagram.com/raelll_98/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+   </a> <a href="https://www.canva.com/design/DAG3a125cnI/view" target="_blank"> 
+    <img src="https://img.shields.io/badge/Canva-Projeto-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
+   </a>
 </p>
 
 
